@@ -9,5 +9,5 @@ Go to [http://example.com](http://www.example.com/)
 
 Next, right click in your Browser (I reccomend Google Chrome), choose Inspect 
 
-<img src="Inspectdemo.jpg"></img>
+<img src="https://github.com/jdc20181/ProgrammersTutorials/blob/master/Lesson1/Insectdemo.jpg"></img>
 
